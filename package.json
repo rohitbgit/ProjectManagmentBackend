@@ -1,0 +1,15 @@
+{
+  "name": "projectmanagment",
+  "version": "1.0.0",
+  "description": "project managment application",
+  "license": "ISC",
+  "author": "Rohit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.9"
+  }
+}
